@@ -1,18 +1,27 @@
 {
-  "name": "netatmobot",
+  "name": "netatmo",
   "version": "1.0.0",
   "description": "",
   "main": "old_script.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "botkit": "^0.5.2",
     "querystring": "^0.2.0",
     "request": "^2.81.0",
-    "sync-request": "^4.0.1",
+    "sync-request": "^4.0.2",
     "then-request": "^2.2.0"
-  }
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tloyau/netatmo-bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tloyau/netatmo-bot/issues"
+  },
+  "homepage": "https://github.com/tloyau/netatmo-bot#readme"
 }
