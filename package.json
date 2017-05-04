@@ -1,0 +1,18 @@
+{
+  "name": "netatmobot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "old_script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botkit": "^0.5.2",
+    "querystring": "^0.2.0",
+    "request": "^2.81.0",
+    "sync-request": "^4.0.1",
+    "then-request": "^2.2.0"
+  }
+}
